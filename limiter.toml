@@ -1,0 +1,6 @@
+[botdetection.ip_limit]
+# 不限制本地请求
+link_token = false
+
+[botdetection.ip_linked]
+limit_recent = false
